@@ -1,0 +1,5 @@
+tkinter
+Pillow
+pyttsx3
+speech_recognition
+PIL
